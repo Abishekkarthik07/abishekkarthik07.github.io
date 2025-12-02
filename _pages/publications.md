@@ -7,7 +7,27 @@ permalink: /publications/
 
 ## Journal Papers
 
-_To be updated soon._
+### **A Novel CustNetGC-Boosted Model with Spectral Features for Parkinson's Disease Prediction**  
+**Abishek Karthik, V. Pandiyaraju, Dominic Savio M., Rohit Swaminathan S. (2025)**  
+Under review at *IEEE Journal of Biomedical and Health Informatics / Sensors (MDPI)*
+
+[Paper](https://arxiv.org/abs/2511.15485)
+
+---
+
+### **Hybrid Convolution Neural Network Integrated with Pseudo-Newton Boosting for Lumbar Spine Degeneration Detection**  
+**V. Pandiyaraju, Abishek Karthik, Jaspin K., A. Kannan, Jaime Lloret (2025)**  
+Under review at *Biomedical Signal Processing and Control (Elsevier)*
+
+[Paper](https://arxiv.org/abs/2511.13877)
+
+---
+
+### **Multi Head Attention Enhanced Inception v3 for Cardiomegaly Detection**  
+**Abishek Karthik, Pandiyaraju V. (2025)**  
+Under review at *IEEE Journal of Biomedical and Health Informatics*
+
+[Paper](https://arxiv.org/abs/2511.20101)
 
 ---
 
@@ -28,3 +48,19 @@ Accepted for **oral presentation** at *ICACRS 2025*, to appear **Dec 10–12, 20
 
 [Paper](https://arxiv.org/abs/2511.21673)  
 [Acceptance Letter](/files/Acceptance Letter ICACRS079.pdf)
+
+---
+
+### **Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability**  
+**Abishek Karthik, V. Pandiyaraju, Sreya Mynampati (2025)**  
+Under review at *IEEE International Conference on Biomedical Engineering & Healthcare*
+
+[Paper](https://arxiv.org/abs/2511.16294)
+
+---
+
+### **Unified Deep Learning Platform for Dust and Fault Diagnosis in Solar Panels Using Thermal and Visual Imaging**  
+**Abishek Karthik, Sreya Mynampati, Pandiyaraju V. (2025)**  
+Under review at *IEEE Transactions on Industrial Informatics*
+
+[Paper](https://arxiv.org/abs/2511.18514)
