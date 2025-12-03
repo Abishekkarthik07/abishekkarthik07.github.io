@@ -39,6 +39,6 @@ StoryFromVideo-AI takes a short video and processes it in several stages:
 - Frame extraction and basic video processing
 - Running open-source models efficiently
 
-<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/StoryFromVideo-AI" style="text-decoration:none;">📜 <strong>[View code]</strong></a></p>
+<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/StoryFromVideo-AI" style="text-decoration:none;"><strong>[View code]</strong></a></p>
 
 <p style="margin-top:1rem;"><a href="/projects/" style="text-decoration:none;color:#1a73e8;">← Back to Projects</a></p>

@@ -48,6 +48,6 @@ When the user asks a question, MindVault retrieves relevant chunks and uses an L
 - Document parsing and chunking
 - Integrating LLMs with retrieval pipelines
 
-<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/MindVault" style="text-decoration:none;">📜 <strong>[View code]</strong></a></p>
+<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/MindVault" style="text-decoration:none;"><strong>[View code]</strong></a></p>
 
 <p style="margin-top:1rem;"><a href="/projects/" style="text-decoration:none;color:#1a73e8;">← Back to Projects</a></p>

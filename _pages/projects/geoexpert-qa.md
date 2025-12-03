@@ -99,6 +99,6 @@ Although it started as an experimental project, it has potential applications in
 - Automated geospatial research pipelines
 - Intelligent geographic reasoning systems
 
-<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/GeoExpert-QA" style="text-decoration:none;">📜 <strong>[View code]</strong></a></p>
+<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/GeoExpert-QA" style="text-decoration:none;"><strong>[View code]</strong></a></p>
 
 <p style="margin-top:1rem;"><a href="/projects/" style="text-decoration:none;color:#1a73e8;">← Back to Projects</a></p>

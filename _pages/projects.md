@@ -31,7 +31,7 @@ Built using Python, PyTorch, GeoPandas, Folium, Streamlit, and a multi-expert ar
 - Solve spatial-temporal queries using multiple expert modules  
 
 ### 🔗 View Code  
-[View code](https://github.com/Abishekkarthik07/GeoExpert-QA)
+<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/GeoExpert-QA" style="text-decoration:none;"><strong>[View code]</strong></a></p>
 
 <p style="margin-top:0.5rem;"><a href="/projects/geoexpert-qa/" style="background:#1a73e8;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none;">Learn more</a></p>
 
@@ -53,7 +53,7 @@ An AI-powered personal knowledge assistant that lets you **upload PDFs, DOCX, TX
 Python, Streamlit, LangChain, FAISS, HuggingFace, Groq API  
 
 ### 🔗 View Code  
-[View code](https://github.com/Abishekkarthik07/MindVault)
+<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/MindVault" style="text-decoration:none;"><strong>[View code]</strong></a></p>
 
 <p style="margin-top:0.5rem;"><a href="/projects/mindvault/" style="background:#1a73e8;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none;">Learn more</a></p>
 
@@ -76,7 +76,7 @@ A fully offline, open-source tool that turns short videos into **coherent AI-gen
 Streamlit, Whisper, BLIP, OpenCV, GPT-3.5 equivalent via open-source models  
 
 ### 🔗 View Code  
-[View code](https://github.com/Abishekkarthik07/StoryFromVideo-AI)
+<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/StoryFromVideo-AI" style="text-decoration:none;"><strong>[View code]</strong></a></p>
 
 <p style="margin-top:0.5rem;"><a href="/projects/storyfromvideo-ai/" style="background:#1a73e8;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none;">Learn more</a></p>
 
@@ -114,7 +114,7 @@ A **multi-agent financial portfolio manager** combining LLM reasoning with quant
 Python, LLM reasoning, quantitative finance models, API-based financial data, modular agents  
 
 ### 🔗 View Code  
-[View code](https://github.com/Abishekkarthik07/MultiAgent-Stock-Advisor)
+<p style="margin-top:1rem;"><a href="https://github.com/Abishekkarthik07/MultiAgent-Stock-Advisor" style="text-decoration:none;"><strong>[View code]</strong></a></p>
 
 <p style="margin-top:0.5rem;"><a href="/projects/multiagent-stock-advisor/" style="background:#1a73e8;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none;">Learn more</a></p>
 
