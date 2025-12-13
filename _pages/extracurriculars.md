@@ -5,7 +5,7 @@ title: "Extracurriculars"
 permalink: /extracurriculars/
 ---
 
-# Extracurriculars
+
 
 My extracurricular experiences have played a quiet but essential role in shaping how I work with people, handle responsibility, and grow outside strictly academic settings. These activities offered balance during demanding academic years and helped me develop skills that extend beyond technical competence, such as leadership, communication, and resilience.
 

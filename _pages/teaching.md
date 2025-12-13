@@ -5,7 +5,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-# Teaching
+
 
 Teaching has been one of the most grounding and formative parts of my academic journey. I began teaching not because I felt I had mastered the subject, but because I wanted to understand it more deeply by explaining it to others. As a Teaching Assistant for a graduate-level Deep Learning course at Vellore Institute of Technology, I worked closely with students from diverse academic backgrounds, many of whom were encountering advanced neural networks for the first time. Standing in front of a classroom of peers who were sometimes older and more experienced than me pushed me to communicate clearly, listen carefully, and adapt constantly. I learned that effective teaching is less about delivering answers and more about guiding intuition when concepts feel overwhelming.
 

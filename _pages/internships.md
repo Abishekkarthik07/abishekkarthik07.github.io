@@ -5,7 +5,7 @@ title: "Internships"
 permalink: /internships/
 ---
 
-# Internships
+
 
 My internship journey has been shaped by a consistent effort to understand how artificial intelligence behaves outside controlled experiments. Across different environments, I learned that deploying AI is less about achieving peak benchmark performance and more about building systems that survive ambiguity, evolve with changing inputs, and earn user trust over time. Each role pushed me to think beyond models in isolation and toward AI as part of a larger, living system.
 
