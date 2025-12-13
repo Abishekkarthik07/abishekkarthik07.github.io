@@ -7,6 +7,8 @@ permalink: /publications/
 
 ## 📑 Journal Papers
 
+    ---
+
 ---
 
 ### [**A Novel CustNetGC-Boosted Model with Spectral Features for Parkinson's Disease Prediction**](/publication/2025-parkinsons/)  
